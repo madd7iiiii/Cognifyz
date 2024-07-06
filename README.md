@@ -1,1 +1,1 @@
-# Cognifyz
+# Cognifyz Internship
